@@ -1,3 +1,4 @@
 __pycache__
 wsgi.py
 manage.py
+__init__.py
